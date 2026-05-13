@@ -1,0 +1,1 @@
+@dotnet pack -c Release src\Elastic.Transport\Elastic.Transport.csproj /p:PackageId=Dnet.Elastic.Transport
